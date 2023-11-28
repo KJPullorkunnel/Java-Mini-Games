@@ -1,6 +1,4 @@
       // Kevin Pullorkunnel RPG game
-      // Mr. Barnum
-      // Period 7
  import java.util.Scanner;
       
  public class TheRPGGame
