@@ -1,6 +1,5 @@
 /*
 Name; Kevin Pullorkunnel
-Period 7
 Project na,e; Adventure game
 A Solution;[ false,1,4,1.5,false,1 ]
 */
